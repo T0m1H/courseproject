@@ -16,7 +16,7 @@ const Service: React.FC = () => {
       </IonHeader>
       <IonContent className="ion-padding">
         <h2>Welcome to the Service Page</h2>
-        <p>This is where you can describe your app’s services or features.</p>
+        <p>TI will put some context here.</p>
       </IonContent>
     </IonPage>
   );
